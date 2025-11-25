@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Casa de verano - Maryland",
+    "precio": 80000 ,
+    "img": "img/pexels1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mansion - Portland",
+    "precio": 80000,
+    "img": "img/pexels2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Penthouse - Las Vegas",
+    "precio": 80000,
+    "img": "img/pexels3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Depto minimalist - Utah",
+    "precio": 80000,
+    "img": "img/pexels4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Depto - Salt lake City",
+    "precio": 80000,
+    "img": "img/pexels5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Casa de verano - Florida",
+    "precio": 80000,
+    "img": "img/pexels6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Mansion - Oregon",
+    "precio": 80000,
+    "img": "img/pexels7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Depto - New York",
+    "precio": 80000,
+    "img": "img/pexels8.jpg"
+  }
+]
